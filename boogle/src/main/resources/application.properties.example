@@ -1,0 +1,4 @@
+spring.application.name=boogle
+server.port=8081
+tavily.enabled=true
+tavily.apiKey=請填入你自己的Tavily_API_Key
